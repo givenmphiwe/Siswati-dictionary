@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Siswati</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="siswati_history_string">Siswati History</string>
+    <string name="paragraph">The Swati (Swati: Emaswati, singular Liswati) are a Bantu ethnic group in Southern Africa, predominantly inhabiting Eswatini, South Africa\'s Mpumalanga province, and Mozambique.
+        The Swazi are part of the Nguni-language speaking peoples whose origins can be traced through archaeology to East Africa where similar traditions, beliefs and cultural practices are found.
+        The Swazi people and the Kingdom of Eswatini today are named after Mswati II, who became king in 1839 after the death of his father King Sobhuza who strategically defeated the British who occupied Eswatini.
+
+        Eswatini was a region first occupied by the San people and the current Swazis migrated from north East Africa through to Mozambique and eventually settled in Eswatini in the 15th century.
+        Their royal lineage can be traced to a chief named Dlamini I; this is still the royal clan name.
+        About three-quarters of the clan groups are Nguni; the remainder are Sotho, Tsonga, others North East African and San descendants.
+        These groups have intermarried freely. Swazi identity extends to all those with allegiance to the twin monarchs Ingwenyama "the Lion" (the king) and Indlovukati "the She-Elephant" (the queen mother).
+        The dominant Swati language and culture are factors that unify Swazis as a nation.
+
+
+    </string>
+
+</resources>

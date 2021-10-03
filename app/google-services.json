@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86877372428",
+    "project_id": "siswati-e96cf",
+    "storage_bucket": "siswati-e96cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86877372428:android:a85dc39e59e3508671ae29",
+        "android_client_info": {
+          "package_name": "octavia.dictionary.siswati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86877372428-hg8sp699u19v638l4p68842gsdbtnl7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_FrIjvszkzjxFr-teFLSM1Spw7nPGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86877372428-hg8sp699u19v638l4p68842gsdbtnl7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
