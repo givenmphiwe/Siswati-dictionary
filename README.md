@@ -1,1 +1,1 @@
-# Siswati-dictionary
+ Siswati dictionary has words to assist learn siswati in an easy and exciting manner.Siswati dictionary it's designed to help you improve your learning of siswati as it also translate siswati to english.
